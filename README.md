@@ -1,4 +1,4 @@
-# lili.github.io
+# peiliu.github.io
 This is readme file
 
-![Li Li](/images/_lili.png)
+![Pei Liu](/images/PeiLiu.jpeg)
